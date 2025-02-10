@@ -74,7 +74,7 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
 			(outputdirectory "")
 		)
@@ -3823,7 +3823,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D9"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "d983860e-999a-4c4f-aae0-665a597220e5")
 			(effects
@@ -3835,7 +3835,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "f7fc26e7-6d39-4c24-a980-2a88161e74d8")
 			(effects
@@ -4099,7 +4099,7 @@
 			(uuid "550fc20a-dd7c-403f-969a-3e4eb16e9243")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "a63125be-642b-47a5-87c7-ad4ee6b8ec5f")
 			(effects
@@ -4836,7 +4836,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D10"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "3f29bdaa-05ca-4615-b484-26ee5fbad156")
 			(effects
@@ -4848,7 +4848,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "99a03dad-67f9-4f23-b4f3-05073287f5fb")
 			(effects
@@ -5112,7 +5112,7 @@
 			(uuid "48b9c48e-b8e4-47ca-bfc9-99427f60a190")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "ebf354aa-8745-4399-9177-e7671123d524")
 			(effects
@@ -5162,7 +5162,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D2"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "79eaf794-9637-4a8f-9d1e-45be49d28352")
 			(effects
@@ -5174,7 +5174,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "50deff90-85e5-48d2-9112-4c2725d0370c")
 			(effects
@@ -5438,7 +5438,7 @@
 			(uuid "5331ac3e-5068-4b70-a4e5-8e5ed6928ed9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "e7f6b0d8-c3af-46bd-a040-29caada8df1a")
 			(effects
@@ -5488,7 +5488,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D13"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "78f91b51-dbad-4d73-9acc-ff9775d46b1a")
 			(effects
@@ -5500,7 +5500,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "5c1d5f67-982d-48fb-8ba0-53b77d6da321")
 			(effects
@@ -5764,7 +5764,7 @@
 			(uuid "a3fb8149-abdf-49c5-81d8-7e949ac9f812")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "c60fe9ea-2c1b-41be-89c5-952d5f66a20a")
 			(effects
@@ -5814,7 +5814,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D11"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "541fcdca-7048-42b1-86d5-aa7df7fa6eff")
 			(effects
@@ -5826,7 +5826,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "4fbcc43c-66c7-4d08-bc67-cf0a4c841731")
 			(effects
@@ -6090,7 +6090,7 @@
 			(uuid "2ebef9f0-c9ed-42dd-8bdb-26abebbc33c7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "11b11fde-93c8-4190-949b-a9397b919c53")
 			(effects
@@ -6323,7 +6323,7 @@
 			(at -0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.243902439)
 			(net 38 "D-")
 			(pintype "passive")
 			(uuid "63ba5a20-8efc-4080-a751-fa05c5fedb94")
@@ -6332,7 +6332,7 @@
 			(at 0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.243902439)
 			(net 34 "Net-(U1-D-)")
 			(pintype "passive")
 			(uuid "f4e53076-bd6e-4bc7-ae2e-2ea07790145b")
@@ -6572,7 +6572,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D5"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "1a481d46-8812-4c4d-9de8-f09facb6dd3c")
 			(effects
@@ -6584,7 +6584,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "b41e1804-e5f0-4e47-8311-2016d0774981")
 			(effects
@@ -6848,7 +6848,7 @@
 			(uuid "ac7564b5-6d45-4108-8efa-5d2748429367")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "c910c202-fb0b-48ee-ae53-a5e6f92a9f50")
 			(effects
@@ -6898,7 +6898,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D4"
-			(at -4.03125 0 270)
+			(at -4.03125 0 -90)
 			(layer "B.SilkS")
 			(uuid "073e6e0b-88f3-488f-83b3-7aef3222c29e")
 			(effects
@@ -6910,7 +6910,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "fb6f0d48-8adf-4286-a417-9cf45cfbcb3f")
 			(effects
@@ -7174,7 +7174,7 @@
 			(uuid "7b46964c-2a65-4671-b339-8691654d12ff")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -4.03125 0 270)
+			(at -4.03125 0 -90)
 			(layer "B.Fab")
 			(uuid "9af995b3-9bb2-45ad-9eab-7106eecbf120")
 			(effects
@@ -7407,7 +7407,7 @@
 			(at -0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.243902439)
 			(net 3 "+5V")
 			(pintype "passive")
 			(uuid "ea979cdb-3fba-4dca-8d9d-3d19f72f6912")
@@ -7416,7 +7416,7 @@
 			(at 0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.243902439)
 			(net 39 "Net-(U1-~{RESET})")
 			(pintype "passive")
 			(uuid "9de9392b-38fd-42a9-9c21-b7f8637dba36")
@@ -7440,7 +7440,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D1"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "775b7918-3493-47c1-8aec-d2b780a4dcea")
 			(effects
@@ -7452,7 +7452,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "89cd623a-3bf9-44ed-b56d-016d62c59dcf")
 			(effects
@@ -7716,7 +7716,7 @@
 			(uuid "e8e10fa2-a073-4f7d-bc03-0bc0773698fc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "6ab887d1-1669-49e8-af17-9ab1432af171")
 			(effects
@@ -7766,7 +7766,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "B.SilkS")
 			(uuid "6a7f99a2-b6e1-4e4a-b1d5-1c72b349fa38")
 			(effects
@@ -7778,7 +7778,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "B.Fab")
 			(uuid "6ff678e9-aa77-43e5-a141-9fbbde5e15c7")
 			(effects
@@ -7934,7 +7934,7 @@
 			(uuid "73efbaf2-311f-4787-89de-ebc1774ad140")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "84de7dd1-b451-4b00-91ce-c2cdd3c1591e")
 			(effects
@@ -7982,7 +7982,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D16"
-			(at -4.03125 0 270)
+			(at -4.03125 0 -90)
 			(layer "B.SilkS")
 			(uuid "d745c926-35e3-4135-96f0-505d095831c2")
 			(effects
@@ -7994,7 +7994,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "819d02ae-6ea3-4dbc-b561-cab5c08f231b")
 			(effects
@@ -8258,7 +8258,7 @@
 			(uuid "30ab75f4-c453-49f3-b29c-86b7337efcf8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -4.03125 0 270)
+			(at -4.03125 0 -90)
 			(layer "B.Fab")
 			(uuid "4f412762-8331-4e06-9bcb-420bad0304d4")
 			(effects
@@ -8308,7 +8308,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at 3.01875 0 270)
+			(at 3.01875 0 -90)
 			(layer "B.SilkS")
 			(uuid "fca50159-8033-473d-b110-81fd06922fb7")
 			(effects
@@ -8320,7 +8320,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 -1.68 270)
+			(at 0 -1.68 -90)
 			(layer "B.Fab")
 			(uuid "478a0b9d-f239-4998-ac0c-67babecafd12")
 			(effects
@@ -8476,7 +8476,7 @@
 			(uuid "d6db2e14-3832-49bf-b4aa-ab7583e30f25")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "7bde186d-77fc-4777-b0e8-29e6ba9a9a69")
 			(effects
@@ -8524,7 +8524,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D15"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "7f2cae59-a8e6-44ba-819c-6ac12ef41635")
 			(effects
@@ -8536,7 +8536,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "46a64b64-6375-425c-bf93-36bf52ce222d")
 			(effects
@@ -8800,7 +8800,7 @@
 			(uuid "0816a9f1-b21c-4c25-a397-af2db0786b08")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "9753ed6d-d809-491b-9490-ebee6592d540")
 			(effects
@@ -8850,7 +8850,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D14"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "47bacc97-f419-4b26-9236-03f23be2fc1f")
 			(effects
@@ -8862,7 +8862,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "9427acc7-a978-4a40-831b-e40aa9ab131b")
 			(effects
@@ -9126,7 +9126,7 @@
 			(uuid "f711e48e-d7e1-452f-9ac7-f80d15377e2b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "19e9e8e0-f84d-44f8-9d74-1c3d0bd6086b")
 			(effects
@@ -9359,7 +9359,7 @@
 			(at -0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.243902439)
 			(net 36 "D+")
 			(pintype "passive")
 			(uuid "0ae3cdbb-a5ec-44dc-8d64-f1e61ebf4ec2")
@@ -9368,7 +9368,7 @@
 			(at 0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.243902439)
 			(net 37 "Net-(U1-D+)")
 			(pintype "passive")
 			(uuid "0ebdcd41-6d20-4c87-8a82-3e5eb161476f")
@@ -9608,7 +9608,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D12"
-			(at -3.90625 0 270)
+			(at -3.90625 0 -90)
 			(layer "B.SilkS")
 			(uuid "d0188840-ddd6-4b25-8e36-d0f39891696c")
 			(effects
@@ -9620,7 +9620,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "be8927c6-2c65-4d92-9e28-a038cb53223c")
 			(effects
@@ -9884,7 +9884,7 @@
 			(uuid "229ef020-b3c2-4325-9092-21b148b2b37a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -3.90625 0 270)
+			(at -3.90625 0 -90)
 			(layer "B.Fab")
 			(uuid "45ba7d2d-e6ac-4f11-af32-e56ae6b37789")
 			(effects
@@ -9934,7 +9934,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C2"
-			(at 0 -3.33125 270)
+			(at 0 -3.33125 -90)
 			(layer "B.SilkS")
 			(uuid "56e94805-9122-4a2b-b55f-777ff9ec74c2")
 			(effects
@@ -9946,7 +9946,7 @@
 			)
 		)
 		(property "Value" "22pF"
-			(at 0 -1.68 270)
+			(at 0 -1.68 -90)
 			(layer "B.Fab")
 			(uuid "2fcb7675-2c39-4615-bd60-a20a57a7df18")
 			(effects
@@ -10102,7 +10102,7 @@
 			(uuid "c605cbf9-3fee-4307-9325-da5d92701f1a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "9a5395b6-bb85-4b70-a0f7-a3197a07d621")
 			(effects
@@ -10150,7 +10150,7 @@
 		(descr "44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)")
 		(tags "QFP 0.8")
 		(property "Reference" "U1"
-			(at 0 7.45 360)
+			(at 0 7.45 0)
 			(layer "B.SilkS")
 			(uuid "29cf0de0-8d28-4f4c-aeac-7fd44c776bc6")
 			(effects
@@ -10162,7 +10162,7 @@
 			)
 		)
 		(property "Value" "ATmega32U4-A"
-			(at 0 -7.45 360)
+			(at 0 -7.45 0)
 			(layer "B.Fab")
 			(uuid "15ef39c4-db31-4a89-87a8-e4c6f7b50598")
 			(effects
@@ -10400,7 +10400,7 @@
 			(uuid "187005dd-7be4-448a-9215-4b9f2b9f11b5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "352e3fba-1a1d-43c6-8823-2a873fe81d09")
 			(effects
@@ -10826,7 +10826,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D8"
-			(at -4.03125 0 270)
+			(at -4.03125 0 -90)
 			(layer "B.SilkS")
 			(uuid "915cc42a-bb0e-4b04-aced-d847039a40db")
 			(effects
@@ -10838,7 +10838,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "56b4ac4d-8938-4a32-9725-09af276ff902")
 			(effects
@@ -11102,7 +11102,7 @@
 			(uuid "22e8c115-6f56-4fc9-8cc2-7808b55f1bc9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -4.03125 0 270)
+			(at -4.03125 0 -90)
 			(layer "B.Fab")
 			(uuid "030e9538-7c63-472e-b0a3-ce4cbe638553")
 			(effects
@@ -11335,7 +11335,7 @@
 			(at -0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.243902439)
 			(net 35 "Net-(U1-~{HWB}{slash}PE2)")
 			(pintype "passive")
 			(uuid "cbf41d60-a79d-4801-b768-6fe4e44d2a65")
@@ -11344,7 +11344,7 @@
 			(at 0.9125 0 270)
 			(size 1.025 1.4)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(roundrect_rratio 0.243902)
+			(roundrect_rratio 0.243902439)
 			(net 1 "GND")
 			(pintype "passive")
 			(uuid "a979ac0a-a5cd-43b1-b7a9-64532d65f2e8")
@@ -11828,7 +11828,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D3"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "3889fc50-c251-4d0f-8ec5-b20428ca6570")
 			(effects
@@ -11840,7 +11840,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "81623bf9-c5e3-4a0f-a85e-c54d612b084e")
 			(effects
@@ -12104,7 +12104,7 @@
 			(uuid "f82b08af-7110-4c31-be96-94c6bb7a2d12")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "9248ec3e-0007-44c1-84ac-08c6df51c971")
 			(effects
@@ -12370,7 +12370,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D6"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "c1391cc3-8322-49e2-91b8-ccf177362871")
 			(effects
@@ -12382,7 +12382,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "6aff32be-7942-43bf-949e-712a69230254")
 			(effects
@@ -12646,7 +12646,7 @@
 			(uuid "bab5853b-bca6-47e4-9d89-d41073f34593")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "27f5f9c4-e73d-446e-9d13-71bf1abae1d8")
 			(effects
@@ -12696,7 +12696,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C4"
-			(at 0 1.68 270)
+			(at 0 1.68 -90)
 			(layer "B.SilkS")
 			(uuid "04163891-e8af-4afc-a6ed-8f7c25478ce5")
 			(effects
@@ -12708,7 +12708,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 0 -1.68 270)
+			(at 0 -1.68 -90)
 			(layer "B.Fab")
 			(uuid "d94aba55-5b72-4ae4-b970-97e25d53dfca")
 			(effects
@@ -12864,7 +12864,7 @@
 			(uuid "5b0541ed-1dd6-4fbc-abe1-9142550f2124")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 270)
+			(at 0 0 -90)
 			(layer "B.Fab")
 			(uuid "e3a2ac13-0a19-4d5f-9e1b-9c5672d96726")
 			(effects
@@ -12912,7 +12912,7 @@
 		(descr "SOD-123")
 		(tags "SOD-123")
 		(property "Reference" "D7"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.SilkS")
 			(uuid "e1291d62-e8b6-4536-8a27-245cfe5dfd16")
 			(effects
@@ -12924,7 +12924,7 @@
 			)
 		)
 		(property "Value" "SOD-123"
-			(at 0 -2.1 270)
+			(at 0 -2.1 -90)
 			(layer "B.Fab")
 			(uuid "305aaa79-ae21-47fd-aad0-b9ae385cafba")
 			(effects
@@ -13188,7 +13188,7 @@
 			(uuid "31f91720-9a05-41b8-91b4-73c7be7f681d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2 270)
+			(at 0 2 -90)
 			(layer "B.Fab")
 			(uuid "20267544-91b4-4fe8-b1de-119bb45a8bcc")
 			(effects
